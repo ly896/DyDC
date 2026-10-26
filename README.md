@@ -1,4 +1,4 @@
-#  Dynamic Graph Anomaly Detection via Dual-Memory Self-Distillation and Long–Short-Term Behavioral Consistency Learning
+##  Dynamic Graph Anomaly Detection via Dual-Memory Self-Distillation and Long–Short-Term Behavioral Consistency Learning
 
 This repository contains a PyTorch implementation of a robust dynamic graph anomaly detection model. The model compares short-term temporal neighborhood behavior with long-term node memory and uses an EMA teacher encoder for stable self-distillation.
 
